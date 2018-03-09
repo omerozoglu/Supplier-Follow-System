@@ -1,0 +1,16 @@
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\bin\Debug\2018Proje_SupFollup_v2.exe.config
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\bin\Debug\2018Proje_SupFollup_v2.exe
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\bin\Debug\2018Proje_SupFollup_v2.pdb
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\obj\Debug\_2018Proje_SupFollup_v2.AdminPanel.resources
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\obj\Debug\_2018Proje_SupFollup_v2.Login.resources
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\obj\Debug\_2018Proje_SupFollup_v2.Properties.Resources.resources
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\obj\Debug\_2018Proje_SupFollup_v2.Register.resources
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\obj\Debug\_2018Proje_SupFollup_v2.Splashscreen.resources
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\obj\Debug\_2018Proje_SupFollup_v2.SuppSystem.resources
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\obj\Debug\_2018Proje_SupFollup_v2.Transactions.resources
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\obj\Debug\_2018Proje_SupFollup_v2.t_deluser.resources
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\obj\Debug\_2018Proje_SupFollup_v2.t_uppuser.resources
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\obj\Debug\2018Proje_SupFollup_v2.csproj.GenerateResource.Cache
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\obj\Debug\2018Proje_SupFollup_v2.csproj.CoreCompileInputs.cache
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\obj\Debug\2018Proje_SupFollup_v2.exe
+C:\Users\ömer\documents\visual studio 2017\Projects\2018Proje_SupFollup_v2\2018Proje_SupFollup_v2\obj\Debug\2018Proje_SupFollup_v2.pdb
